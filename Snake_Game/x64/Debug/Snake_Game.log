@@ -1,10 +1,24 @@
 ﻿  Snake_Game.cpp
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(432,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(661,14): warning C4309: 'initializing': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(678,9): warning C4309: '=': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(687,9): warning C4309: '=': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(690,9): warning C4309: '=': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(700,9): warning C4309: '=': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\SoursePlayGame.h(703,9): warning C4309: '=': truncation of constant value
-C:\Users\admin\Documents\Snake_Game\Snake_Game\Snake_Game.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Snake_Game.vcxproj -> C:\Users\admin\Documents\Snake_Game\x64\Debug\Snake_Game.exe
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(431,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(660,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(677,9): warning C4309: '=': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(686,9): warning C4309: '=': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(689,9): warning C4309: '=': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(699,9): warning C4309: '=': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\SoursePlayGame.h(702,9): warning C4309: '=': truncation of constant value
+  (compiling source file 'Snake_Game.cpp')
+  
+C:\git\source\Web's_project\SnakeGame\Snake_Game\Snake_Game.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Snake_Game.vcxproj -> C:\git\source\Web's_project\SnakeGame\x64\Debug\Snake_Game.exe
